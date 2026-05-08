@@ -1,0 +1,17 @@
+.vs/
+SFML_Alik.sln
+SFML_Alik.vcxproj
+SFML_Alik.vcxproj.filters
+SFML_Alik.vcxproj.user
+SFML_Alik
+sfml-audio-3.dll
+sfml-audio-d-3.dll
+sfml-graphics-3.dll
+sfml-graphics-d-3.dll
+sfml-network-3.dll
+sfml-network-d-3.dll
+sfml-system-3.dll
+sfml-system-d-3.dll
+sfml-window-3.dll
+sfml-window-d-3.dll
+x64
