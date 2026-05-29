@@ -1,0 +1,6 @@
+.vs/
+x61/
+x64/
+Debug/
+Release/
+*.vcxproj.user
