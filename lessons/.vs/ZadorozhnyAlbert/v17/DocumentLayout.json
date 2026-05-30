@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72FA7C36-4CB7-4034-9B7E-08C344FB62C3}|posled\\posled.vcxproj|C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\posled\\posled.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72FA7C36-4CB7-4034-9B7E-08C344FB62C3}|posled\\posled.vcxproj|solutionrelative:posled\\posled.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACF5B9E-48B0-4857-97BA-6A41BA3EE1A0}|lesone 69\\lesone 69.vcxproj|C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\lesone 69\\lesone 69.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0ACF5B9E-48B0-4857-97BA-6A41BA3EE1A0}|lesone 69\\lesone 69.vcxproj|solutionrelative:lesone 69\\lesone 69.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E665E8-7238-4029-9BA5-F1000F59F7DF}|lesson4\\lesson4.vcxproj|C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\lesson4\\lesson4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62E665E8-7238-4029-9BA5-F1000F59F7DF}|lesson4\\lesson4.vcxproj|solutionrelative:lesson4\\lesson4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C289F05-B044-4599-B2BB-F04C61E33B0B}|practic_rec\\practic_rec.vcxproj|C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practic_rec\\practic_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C289F05-B044-4599-B2BB-F04C61E33B0B}|practic_rec\\practic_rec.vcxproj|solutionrelative:practic_rec\\practic_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEF8E4D-706E-4695-9A76-D4934FF0B557}|practica\\practica.vcxproj|C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practica\\practica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CEF8E4D-706E-4695-9A76-D4934FF0B557}|practica\\practica.vcxproj|solutionrelative:practica\\practica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DA1726-C9F1-4485-BD9E-4185BF8014AF}|pamat\\pamat.vcxproj|C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\pamat\\pamat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53DA1726-C9F1-4485-BD9E-4185BF8014AF}|pamat\\pamat.vcxproj|solutionrelative:pamat\\pamat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9157C498-EC1D-4DF6-8CB8-9440E8971121}|class\\class.vcxproj|C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\class\\class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9157C498-EC1D-4DF6-8CB8-9440E8971121}|class\\class.vcxproj|solutionrelative:class\\class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53336A79-48D2-497C-88F7-C9FC4CD94537}|practic4\\practic4.vcxproj|C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practic4\\practic4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53336A79-48D2-497C-88F7-C9FC4CD94537}|practic4\\practic4.vcxproj|solutionrelative:practic4\\practic4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC90FE4-0E09-4518-9BE0-0E99435BD597}|practica_def\\practica_def.vcxproj|C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practica_def\\practica_def.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BC90FE4-0E09-4518-9BE0-0E99435BD597}|practica_def\\practica_def.vcxproj|solutionrelative:practica_def\\practica_def.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B50B4F-32D8-415D-AA96-FAE5879A5F00}|practic3\\practic3.vcxproj|C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practic3\\practic3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B50B4F-32D8-415D-AA96-FAE5879A5F00}|practic3\\practic3.vcxproj|solutionrelative:practic3\\practic3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C304891B-08B6-440E-9408-4275B9BE218C}|practic2\\practic2.vcxproj|C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practic2\\practic2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C304891B-08B6-440E-9408-4275B9BE218C}|practic2\\practic2.vcxproj|solutionrelative:practic2\\practic2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "posled.cpp",
+              "DocumentMoniker": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\posled\\posled.cpp",
+              "RelativeDocumentMoniker": "posled\\posled.cpp",
+              "ToolTip": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\posled\\posled.cpp",
+              "RelativeToolTip": "posled\\posled.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-20T17:36:08.923Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "class.cpp",
+              "DocumentMoniker": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\class\\class.cpp",
+              "RelativeDocumentMoniker": "class\\class.cpp",
+              "ToolTip": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\class\\class.cpp",
+              "RelativeToolTip": "class\\class.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-06T17:41:43.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pamat.cpp",
+              "DocumentMoniker": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\pamat\\pamat.cpp",
+              "RelativeDocumentMoniker": "pamat\\pamat.cpp",
+              "ToolTip": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\pamat\\pamat.cpp",
+              "RelativeToolTip": "pamat\\pamat.cpp",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-16T16:46:28.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "practica.cpp",
+              "DocumentMoniker": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practica\\practica.cpp",
+              "RelativeDocumentMoniker": "practica\\practica.cpp",
+              "ToolTip": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practica\\practica.cpp",
+              "RelativeToolTip": "practica\\practica.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-09T16:40:39.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "practic_rec.cpp",
+              "DocumentMoniker": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practic_rec\\practic_rec.cpp",
+              "RelativeDocumentMoniker": "practic_rec\\practic_rec.cpp",
+              "ToolTip": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practic_rec\\practic_rec.cpp",
+              "RelativeToolTip": "practic_rec\\practic_rec.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-09T16:38:37.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lesson4.cpp",
+              "DocumentMoniker": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\lesson4\\lesson4.cpp",
+              "RelativeDocumentMoniker": "lesson4\\lesson4.cpp",
+              "ToolTip": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\lesson4\\lesson4.cpp",
+              "RelativeToolTip": "lesson4\\lesson4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T16:40:35.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lesone 69.cpp",
+              "DocumentMoniker": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\lesone 69\\lesone 69.cpp",
+              "RelativeDocumentMoniker": "lesone 69\\lesone 69.cpp",
+              "ToolTip": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\lesone 69\\lesone 69.cpp",
+              "RelativeToolTip": "lesone 69\\lesone 69.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T16:37:40.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "practica_def.cpp",
+              "DocumentMoniker": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practica_def\\practica_def.cpp",
+              "RelativeDocumentMoniker": "practica_def\\practica_def.cpp",
+              "ToolTip": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practica_def\\practica_def.cpp",
+              "RelativeToolTip": "practica_def\\practica_def.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-19T17:43:51.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "practic4.cpp",
+              "DocumentMoniker": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practic4\\practic4.cpp",
+              "RelativeDocumentMoniker": "practic4\\practic4.cpp",
+              "ToolTip": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practic4\\practic4.cpp",
+              "RelativeToolTip": "practic4\\practic4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-19T16:46:18.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "practic3.cpp",
+              "DocumentMoniker": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practic3\\practic3.cpp",
+              "RelativeDocumentMoniker": "practic3\\practic3.cpp",
+              "ToolTip": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practic3\\practic3.cpp",
+              "RelativeToolTip": "practic3\\practic3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-12T16:41:39.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "practic2.cpp",
+              "DocumentMoniker": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practic2\\practic2.cpp",
+              "RelativeDocumentMoniker": "practic2\\practic2.cpp",
+              "ToolTip": "C:\\Users\\alexk\\source\\repos\\ZadorozhnyAlbert\\practic2\\practic2.cpp",
+              "RelativeToolTip": "practic2\\practic2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-05T16:41:56.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
